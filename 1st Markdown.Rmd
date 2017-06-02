@@ -20,7 +20,8 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 summary(cars)
 ```
-
+## HEY!!
+How you doing? What's new in life? Hows Iowa so far? Any plans for the weekend?
 
 ```{r, echo = FALSE}
 numericInput("n","How many cars?",5)
