@@ -28,7 +28,7 @@ numericInput("n","How many cars?",5)
 
 renderTable({head(cars, input$n)})
 ```
-[^1}: This is a footnote.
+[^1]: This is a footnote.
 
 
 
