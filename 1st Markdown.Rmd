@@ -27,8 +27,10 @@ How you doing? What's new in life? Hows Iowa so far? Any plans for the weekend?
 numericInput("n","How many cars?",5)
 
 renderTable({head(cars, input$n)})
-
 ```
+[^1}: This is a footnote.
+
+
 
 - Stuff
 - More stuff
